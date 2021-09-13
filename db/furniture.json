@@ -1,0 +1,164 @@
+{
+    "furniture" : [
+        {   
+            "imgURL" :"https://minimalissimo.imgix.net/content/articles/282_gagosian-extruded-tables/extruded-table_06.jpg?w=702&h=702&q=60",
+            "category" : "table",
+            "name" : "Extruded Tables",
+            "price": 1950,
+            "size": "1200W X 500D X 525H"
+        },
+        {   
+            "imgURL" :"https://de3mgg6o5o9w.cloudfront.net/_500x700_crop_center-center_none/60800/yves-thumb2_2021-05-07-092358.webp?mtime=20210507092359&focal=none&tmtime=20210507113842",
+            "category" : "table",
+            "name" : "Yves desk",
+            "price": 2400,
+            "size": "1260W X 700D X 830H"
+        },
+        {    
+            "imgURL" :"http://www.designschneider.de/uploads/thumbs/CK_Porto_01_thumbnail.jpg",
+            "category" : "table",
+            "name" : "Porto",
+            "price": 1500,
+            "size": "1025W X 500D X 495H"
+
+        },
+        {   
+            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Epos_01_thumbnail.jpg",
+            "category" : "table",
+            "name" : "Rodam",
+            "price": 1650,
+            "size": "1300W X 625D X 845H"
+
+        },
+        {   
+            "imgURL" :"https://minimalissimo.imgix.net/content/articles/272_sol-side-table/soltable_2.jpg?w=702&h=702&q=60",
+            "category" : "table",
+            "name" : "Sol side table",
+            "price": 750,
+            "size": "575W X 550D X 655H"
+
+        },
+        {   
+            "imgURL" :"https://westcoastindustries.com/wp-content/uploads/2019/02/Spacesaver-1.gif",
+            "category" : "table",
+            "name" : "Spacesaver",
+            "price": 525,
+            "size": "500W X 500D X 625H"
+
+        },
+        {   
+            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Mitja_Coco_chair_mobile01.jpg",
+            "category" : "chair",
+            "name" : "COCO collection",
+            "price": 235,
+            "size": "375W X 425D X 540H"
+        },
+        {   
+            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Ten_02_thumbnail.jpg",
+            "category" : "chair",
+            "name" : "SAN",
+            "price": 260,
+            "size": "350W X 400D X 570H"
+        },
+        {   
+            "imgURL" :"https://de3mgg6o5o9w.cloudfront.net/_500x700_crop_center-center_none/63984/avery-bar-uph-thumb_2021-07-23-123502.webp?mtime=20210723123502&focal=none&tmtime=20210723131624",
+            "category" : "chair",
+            "name" : "Avery bar stool upholstered",
+            "price": 275,
+            "size": "475W × 465D × 930H"
+        },
+        {   
+            "imgURL" :"https://de3mgg6o5o9w.cloudfront.net/_500x700_crop_center-center_none/60366/avery-stacking-thumb-copy_2021-04-21-164710.webp?mtime=20210421164711&focal=none&tmtime=20210421174215",
+            "category" : "chair",
+            "name" : "Avery stacking stool",
+            "price": 215,
+            "size": "435W × 340D × 450H"
+        },
+        {   
+            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Cara_01_thumbnail.jpg",
+            "category" : "chair",
+            "name" : "CARA",
+            "price": 315,
+            "size": "450W × 325D × 575H"
+        },
+        {   
+            "imgURL" :"https://minimalissimo.imgix.net/content/articles/283_tylko-type02/ty_sh110_type02-mb-1.jpg?q=60",
+            "category" : "cabinetry",
+            "name" : "Tylko Matte Black",
+            "price": 2750,
+            "size": "828W × 425D × 1800H"
+        },
+        {   
+            "imgURL" :"https://de3mgg6o5o9w.cloudfront.net/_500x700_crop_center-center_none/47432/Joyce-Cabinet-thumb_2020-11-17-114214.webp?mtime=20201117114214&focal=none&tmtime=20201123183224",
+            "category" : "cabinetry",
+            "name" : "Joyce cabinet",
+            "price": 3150,
+            "size": "1350W × 420D × 2000H"
+        },
+        {   
+            "imgURL" :"https://de3mgg6o5o9w.cloudfront.net/_500x700_crop_center-center_none/47497/ALBA-MEDIA-THUMB.webp?mtime=20201117124349&focal=none&tmtime=20201123183228",
+            "category" : "cabinetry",
+            "name" : "Alba media unit",
+            "price": 2570,
+            "size": "1200W × 465D × 520H"
+        },
+        {   
+            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Ten_Cabinet01_thumbnail.jpg",
+            "category" : "cabinetry",
+            "name" : "TEN",
+            "price": 1750,
+            "size": "1150W × 375D × 425H"
+        },
+        {   
+            "imgURL" :"https://de3mgg6o5o9w.cloudfront.net/_500x700_crop_center-center_none/6418/pcgj69rqqjqlqf6e6ylz.webp?mtime=20201113101325&focal=none&tmtime=20201123183227",
+            "category" : "cabinetry",
+            "name" : "Emil dresser",
+            "price": 2900,
+            "size": "1250W × 420D × 2100H"
+        },
+        {   
+            "imgURL" :"http://www.designschneider.de/uploads/thumbs/TARA_sofa_01_thumbnail.jpg",
+            "category" : "sofa",
+            "name" : "TARA",
+            "price": 2250,
+            "size": "1200W × 495D × 475H"
+        },
+        {   
+            "imgURL" :"https://hauteliving.imgix.net/product-photos/product-298060/massproductions-dandy-sofa-sand-front-haute-living.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=500&q=80&w=900&s=2a276c1742ee5c58024f5f04217a4f86",
+            "category" : "sofa",
+            "name" : "Dandy sofa",
+            "price": 3125,
+            "size": "1940W × 800D × 720H"
+        },
+        {   
+            "imgURL" :"https://hauteliving.imgix.net/product-photos/hegoa-modular-meridian-chaise/matiere-grise-luc-jozancy-hegoa-meridienne-160x80xh70-metal-tissu-resistant-sunbrella-ecru-bleu-canape-2-places-divan-indoor-salon-outdoor-terrasse.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=500&q=80&w=900&s=b7ac8f7628b84399e881a1364c8b447f",
+            "category" : "sofa",
+            "name" : "Meridian chaise",
+            "price": 2950,
+            "size": "1610W × 800D × 670H"
+        },
+        {   
+            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Ten_Sofa01_thumbnail2.jpg",
+            "category" : "sofa",
+            "name" : "TEN",
+            "price": 2150,
+            "size": "1580W × 675D × 650H"
+        },
+        {   
+            "imgURL" :"https://hauteliving.imgix.net/product-photos/product-411821/sancal-furniture-nosso-sofa-haute-living.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=500&q=80&w=900&s=37fa1f19b3ce9a8c458a269b1ac5105c",
+            "category" : "sofa",
+            "name" : "Nosso sofa",
+            "price": 2550,
+            "size": "1760W × 840D × 670H"
+        },
+        {   
+            "imgURL" :"https://hauteliving.imgix.net/product-photos/product-353160/NORR11-man-two-seater-sofa-haute-living.jpg?auto=compress%2Cformat&bg=ffffffff&fit=fill&h=500&q=80&w=900&s=f79fdacb87a5d9b43d9995dd142cb306",
+            "category" : "sofa",
+            "name" : "Two seater",
+            "price": 1880,
+            "size": "1320W × 740D × 750H"
+        }
+
+        
+    ]
+}

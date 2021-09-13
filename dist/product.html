@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+
+    <link
+    rel="stylesheet"
+    href="//use.fontawesome.com/releases/v5.8.2/css/all.css"
+  />
+    <title>W | C - product</title>
+</head>
+<body>
+    <nav class="flex justify-between p-10">
+        <a class="" href="./index.html"><img src="../asset/logo.svg" alt="logoImg"></a>
+
+        <ul class="flex hidden sm:flex">
+            <li class="opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300" ><a href="./product.html">Product</a> </li>
+            <li class="mr-8 ml-8 opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300"><a href="./inspiration.html">Inspiration</a> </li>
+            <li class="opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300"><a href="./contact.html">Contact</a> </li>
+        </ul>
+        <div class="block sm:hidden ">
+            <i class="fas cursor-pointer hover:scale-105 transition transform duration-300 fa-bars text-2xl burgerBar text-gray-600"></i>
+        </div>
+    </nav>
+    <ul class="z-10 sm:hidden  newNav left-full sm:w-1/2 w-3/5 absolute top-0 h-2/3 right-0  flex flex-col justify-evenly opacity-90  bg-gray-600 text-gray-200  pl-12 ">
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./product.html">Product</a> </li>
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./inspiration.html">Inspiration</a></li>
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./contact.html">Contact</a> </li>
+        <i class="far fa-window-close absolute top-0 right-0 m-4 text-3xl hover:text-white cursor-pointer cancelBar"></i>
+    </ul>
+    <section>
+        <ul class="filter-container buttons flex  m-2 justify-center ">
+
+        </ul>
+        <ul class="product grid md:grid-cols-3 sm:grid-col-2 p-12">
+
+        </ul>
+    </section>
+    <footer class="fixed bottom-0">
+        <ul class="flex flex-col align-middle justify-center md:text-xl md:p-4  p-2 text-lg">
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full"><i class="fab fa-facebook "></i></li>
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full my-2"><i class="fab fa-instagram  "></i></li>
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full"><i class="fab fa-youtube "></i></li>
+        </ul>
+    </footer>
+</body>
+</html>

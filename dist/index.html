@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <script src="app.js" defer></script>
+
+    <link
+      rel="stylesheet"
+      href="//use.fontawesome.com/releases/v5.8.2/css/all.css"
+    />
+    <title>W | C</title>
+</head>
+<body class="m-0 p-0 box-border">
+    <nav class="flex justify-between p-10">
+        <a class="" href="./index.html"><img src="../asset/logo.svg" alt="logoImg"></a>
+
+        <ul class="flex hidden sm:flex">
+            <li class="opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300" ><a href="./product.html">Product</a> </li>
+            <li class="mr-8 ml-8 opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300"><a href="./inspiration.html">Inspiration</a> </li>
+            <li class="opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300"><a href="./contact.html">Contact</a> </li>
+        </ul>
+        <div class="block sm:hidden ">
+            <i class="fas cursor-pointer hover:scale-105 transition transform duration-300 fa-bars text-2xl burgerBar text-gray-600"></i>
+        </div>
+    </nav>
+    <ul class="m-0 sm:hidden newNav overflow-hidden sm:w-1/2 w-3/5 absolute top-0 h-2/3 right-0  flex flex-col justify-evenly opacity-90  bg-gray-600 text-gray-200  pl-12 ">
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./product.html">Product</a> </li>
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./inspiration.html">Inspiration</a></li>
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./contact.html">Contact</a> </li>
+        <i class="far fa-window-close absolute top-0 right-0 m-4 text-3xl hover:text-white cursor-pointer cancelBar"></i>
+    </ul>
+    <section>
+        <p class="w-5/6 md:w-1/2 mr-auto ml-auto mt-12">Creators of furniture where beautiful objects celebrate form and material, inspire artistry in our workshops and deliver a warmth, substance and elegance to our customers' spaces.</p>
+        <h1 class="font-bold  text-5xl md:text-7xl ml-20 md:ml-32 mt-20">INFINITE <br>POSSIBILITIES</h1>
+    </section>
+    <div class="mt-20 w-5/6 mx-auto">
+        <div class="md:flex md:p-12 p-4 ">
+            <div class="flex-col  justify-center">
+                <h1 class="text-xl m-4">Table</h1>
+                <p class="m-4 w-3/5">Shift the way you think about open spaces. Our table collection gives you the freedom to create, collaborate and dream.</p>   
+            </div>
+            <div data-aos="fade-up-left" class=" md:flex">
+                <img src="../asset/main_image1.jpeg" alt="mainImg1">
+                <div class="hidden md:ml-2 md:w-6 md:block  md:h-2/3 border-yellow-400 border-8 self-end"></div>
+            </div>
+        </div>
+        <div  class="md:flex md:p-12 p-4"> 
+            <div data-aos="fade-up-right" class="flex  ">
+                <div class="hidden md:block md:w-6 md:h-2/3 md:mr-2 md:border-blue-800  md:border-8 self-end"></div>
+                <img src="../asset/main_image4.jpeg" alt="mainImg4">
+            </div>
+            <div class="flex flex-col justify-center ml-12 align-middle">
+                <h1 class="text-xl my-4" >Chair</h1>
+                <p class="mt-4 w-3/5"> Whether for ancillary seating or a pop of color, ottomans lend style and flexibility to any gathering.</p>   
+            </div>
+        </div>
+        <div class=" p-12 md:flex">
+        
+            <div class="w-4/5 m-12 md:w-2/3">
+                <img data-aos="fade-up-right" src="../asset/main_image2.jpeg" alt="mainImg2">
+            </div>
+            <div data-aos="fade-up-left" class="flex flex-col md:w-2/3 w-4/5 ">
+                <img src="../asset/main_image3.jpeg" alt="mainImg3">
+                <div class="bg-gray-300 mt-2 w-2/3 h-3  self-end"></div>
+                
+            </div>
+        </div>
+        <p class="text-center mt-12 mb-20 w-2/3 mx-auto">Inspired by you and our design principles, we invite you to take the road less traveled. </p>
+    </div>
+    <footer class="fixed bottom-0">
+        <ul class="flex flex-col align-middle justify-center md:text-xl md:p-4  p-2 text-lg">
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full"><i class="fab fa-facebook "></i></li>
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full my-2"><i class="fab fa-instagram  "></i></li>
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full"><i class="fab fa-youtube "></i></li>
+        </ul>
+    </footer>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+</body>
+</html>

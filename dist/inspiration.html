@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+   
+    <link
+    rel="stylesheet"
+    href="//use.fontawesome.com/releases/v5.8.2/css/all.css"
+  />
+    <title>W | C - Inspiration</title>
+</head>
+<body>
+    <nav class="flex justify-between p-10">
+        <a class="" href="./index.html"><img src="../asset/logo.svg" alt="logoImg"></a>
+
+        <ul class="flex hidden sm:flex">
+            <li class="opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300" ><a href="./product.html">Product</a> </li>
+            <li class="mr-8 ml-8 opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300"><a href="./inspiration.html">Inspiration</a> </li>
+            <li class="opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300"><a href="./contact.html">Contact</a> </li>
+        </ul>
+        <div class="block sm:hidden ">
+            <i class="fas cursor-pointer hover:scale-105 transition transform duration-300 fa-bars text-2xl burgerBar text-gray-600"></i>
+        </div>
+    </nav>
+    <ul class="m-0 sm:hidden newNav overflow-hidden sm:w-1/2 w-3/5 absolute top-0 h-2/3 right-0  flex flex-col justify-evenly opacity-90  bg-gray-600 text-gray-200  pl-12 ">
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./product.html">Product</a> </li>
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./inspiration.html">Inspiration</a></li>
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./contact.html">Contact</a> </li>
+        <i class="far fa-window-close absolute top-0 right-0 m-4 text-3xl hover:text-white cursor-pointer cancelBar"></i>
+    </ul>
+    <section class="mt-12 mb-12">
+        <p class="w-4/5 text-center m-auto  text-lg md:text-xl sm:text-md md:w-3/5">Inspired by you and our design principles,<br> we invite you to take the road less traveled. <br>Come explore with us.</p>
+        <div class="  px-12 py-4 mt-12 flex flex-col">
+            <div data-aos="zoom-in-up" class="lg:w-2/5 items-end m-6 lg:ml-20 w-2/3"">
+                <img src="../asset/inspiration_image1.jpeg" alt="inspire_img">
+                <p class="uppercase mt-2 text-sm md:text-xl">Airbnb</p>
+            </div>
+            <div data-aos="zoom-in-up" class="lg:w-2/5 self-end mt-20 my-6 lg:mr-20 w-2/3">
+                <img  src="../asset/inspiration_image2.jpeg" alt="inspire_img">
+                <p class="uppercase mt-2 text-sm md:text-xl">DYNATRACE</p>
+            </div>
+            <div data-aos="zoom-in-up" class="lg:w-2/5 mt-20 my-6 lg:ml-20 w-2/3"">
+                <img src="../asset/inspiration_image3.jpeg" alt="inspire_img">
+                <p class="uppercase mt-2 text-sm md:text-xl">HILTON, SAN FRANCISCO</p>
+            </div>
+        </div>
+    </section>
+    <footer class="fixed bottom-0">
+        <ul class="flex flex-col align-middle justify-center md:text-xl md:p-4  p-2 text-lg">
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full"><i class="fab fa-facebook "></i></li>
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full my-2"><i class="fab fa-instagram  "></i></li>
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full"><i class="fab fa-youtube "></i></li>
+        </ul>
+    </footer>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+</body>
+</html>

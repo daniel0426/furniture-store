@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+    <link
+    rel="stylesheet"
+    href="//use.fontawesome.com/releases/v5.8.2/css/all.css"
+  />
+    <title>W | C - contact</title>
+</head>
+<body>
+    <nav class="flex justify-between p-10">
+        <a class="" href="./index.html"><img src="../asset/logo.svg" alt="logoImg"></a>
+
+        <ul class="flex hidden sm:flex">
+            <li class="opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300" ><a href="./product.html">Product</a> </li>
+            <li class="mr-8 ml-8 opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300"><a href="./inspiration.html">Inspiration</a> </li>
+            <li class="opacity-80 hover:scale-105 hover:opacity-100 transform transition duration-300"><a href="./contact.html">Contact</a> </li>
+        </ul>
+        <div class="block sm:hidden ">
+            <i class="fas cursor-pointer hover:scale-105 transition transform duration-300 fa-bars text-2xl burgerBar text-gray-600"></i>
+        </div>
+    </nav>
+    <ul class="z-10 sm:hidden newNav left-full  sm:w-1/2 w-3/5 absolute top-0 h-2/3   flex flex-col justify-evenly opacity-90  bg-gray-600 text-gray-200  pl-12 ">
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./product.html">Product</a> </li>
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./inspiration.html">Inspiration</a></li>
+        <li class="hover:text-white text-2xl hover:text-3xl transition transform duration-300"><a href="./contact.html">Contact</a> </li>
+        <i class="far fa-window-close absolute top-0 right-0 m-4 text-3xl hover:text-white cursor-pointer cancelBar"></i>
+    </ul>
+    <div class="mt-12 mb-12">
+    <h1 class="text-center mb-20 text-2xl uppercase ">Send us a message</h1>
+    <form action="" class="w-4/5 md:w-2/5 m-auto border-none  mb-12 p-2" type="submit">
+            <div class="form-group flex flex-col m-2">
+                <label for="firstname">First name *</label>
+                <input class="p-2 border-b border-black" type="text" name="firstname" id="firstname">
+            </div>
+            <div class="form-group flex flex-col m-2">
+                <label for="lastname">Last name *</label>
+                <input class="p-2 border-b border-black" type="text" name="lastname" id="lastname">
+            </div>
+            <div class="form-group flex flex-col m-2">
+                <label for="email "> Email *</label>
+                <input class="p-2 border-b border-black" type="email" name="email" id="email">
+            </div>
+            <div class="form-group flex flex-col m-2">
+                <label class="mb-2" for="text">Leave message *</label>
+            <textarea class="p-2 border-2 border-black" name="text" id="" cols="30" rows="5"></textarea>
+            </div>
+            <button type="submit" class="rounded p-2 border m-2 border-none bg-green-600 text-white ">Send message</button>
+    </form>
+
+    <img class="w-1/2 m-auto p-2  " src="../asset/contact_image.png" alt="contact_img">
+    </div>
+    <footer class="fixed bottom-0">
+        <ul class="flex flex-col align-middle justify-center md:text-xl md:p-4  p-2 text-lg">
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full"><i class="fab fa-facebook "></i></li>
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full my-2"><i class="fab fa-instagram  "></i></li>
+            <li class="hover:scale-105 cursor-pointer transition transform duration-200 w-12 p-2  text-center rounded-full"><i class="fab fa-youtube "></i></li>
+        </ul>
+    </footer>
+</body>
+</html>
