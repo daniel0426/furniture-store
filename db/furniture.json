@@ -15,17 +15,17 @@
             "size": "1260W X 700D X 830H"
         },
         {    
-            "imgURL" :"http://www.designschneider.de/uploads/thumbs/CK_Porto_01_thumbnail.jpg",
+            "imgURL" :"https://cb2.scene7.com/is/image/CB2/SantoroCoffeeTableSHF20_1x1/$web_pdp_main_carousel_md$/200610083856/santoro-white-quartz-coffee-table.jpg",
             "category" : "table",
-            "name" : "Porto",
-            "price": 1500,
+            "name" : "WHITE QUARTZ COFFEE TABLE",
+            "price": 1099,
             "size": "1025W X 500D X 495H"
 
         },
         {   
-            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Epos_01_thumbnail.jpg",
+            "imgURL" :"https://cb2.scene7.com/is/image/CB2/ReidDeskSHF20_1x1/$web_pdp_main_carousel_md$/200623121947/reid-oval-desk.jpg",
             "category" : "table",
-            "name" : "Rodam",
+            "name" : "Reid Oval Desk",
             "price": 1650,
             "size": "1300W X 625D X 845H"
 
@@ -47,16 +47,16 @@
 
         },
         {   
-            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Mitja_Coco_chair_mobile01.jpg",
+            "imgURL" :"https://cdn.shopify.com/s/files/1/0074/7077/6371/products/4_bf1721ae-4319-4c2b-9ec3-482aad8cf96a_544x352.jpg?v=1630532877",
             "category" : "chair",
-            "name" : "COCO collection",
-            "price": 235,
+            "name" : "Kova Corner",
+            "price": 495,
             "size": "375W X 425D X 540H"
         },
         {   
-            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Ten_02_thumbnail.jpg",
+            "imgURL" :"https://cdn.shopify.com/s/files/1/2793/9882/products/Blumen_Chair_Storage_Angle_1728x.jpg?v=1631916100",
             "category" : "chair",
-            "name" : "SAN",
+            "name" : "Blumen Chair",
             "price": 260,
             "size": "350W X 400D X 570H"
         },
@@ -75,9 +75,9 @@
             "size": "435W × 340D × 450H"
         },
         {   
-            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Cara_01_thumbnail.jpg",
+            "imgURL" :"https://cdn.shopify.com/s/files/1/0074/7077/6371/products/OTTOMAN_GOLD_544x352.jpg?v=1628610323",
             "category" : "chair",
-            "name" : "CARA",
+            "name" : "Park Ottoman",
             "price": 315,
             "size": "450W × 325D × 575H"
         },
@@ -103,9 +103,9 @@
             "size": "1200W × 465D × 520H"
         },
         {   
-            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Ten_Cabinet01_thumbnail.jpg",
+            "imgURL" :"https://s7d5.scene7.com/is/image/Anthropologie/62117148_016_b2?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349",
             "category" : "cabinetry",
-            "name" : "TEN",
+            "name" : "Florian Armoire",
             "price": 1750,
             "size": "1150W × 375D × 425H"
         },
@@ -117,30 +117,30 @@
             "size": "1250W × 420D × 2100H"
         },
         {   
-            "imgURL" :"http://www.designschneider.de/uploads/thumbs/TARA_sofa_01_thumbnail.jpg",
+            "imgURL" :"https://images.ctfassets.net/5de70he6op10/1ZbAua8vqMM0MWcoOaSayo/60c6f537999eba92b6f46d1ee53af685/15_PiedaTerre.jpg?w=934&q=80&fm=webp",
             "category" : "sofa",
-            "name" : "TARA",
+            "name" : "The Pied-à-Terre Sofa",
             "price": 2250,
             "size": "1200W × 495D × 475H"
         },
         {   
-            "imgURL" :"https://hauteliving.imgix.net/product-photos/product-298060/massproductions-dandy-sofa-sand-front-haute-living.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=500&q=80&w=900&s=2a276c1742ee5c58024f5f04217a4f86",
+            "imgURL" :"https://images.ctfassets.net/5de70he6op10/75DAa8wfRTP4ZIMujNUXmn/49755afb27454ab0954d2e80c70f2d1b/CALLAHAN.jpg?w=934&q=80&fm=webp",
             "category" : "sofa",
-            "name" : "Dandy sofa",
+            "name" : "Callahan Sofa",
             "price": 3125,
             "size": "1940W × 800D × 720H"
         },
         {   
-            "imgURL" :"https://hauteliving.imgix.net/product-photos/hegoa-modular-meridian-chaise/matiere-grise-luc-jozancy-hegoa-meridienne-160x80xh70-metal-tissu-resistant-sunbrella-ecru-bleu-canape-2-places-divan-indoor-salon-outdoor-terrasse.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=500&q=80&w=900&s=b7ac8f7628b84399e881a1364c8b447f",
+            "imgURL" :"https://images.ctfassets.net/5de70he6op10/3XUQY4K0JLj01mtg0V3BDC/9436beffd3d8c4737a2149d619456e36/21_Goleta.jpg?w=934&q=80&fm=webp",
             "category" : "sofa",
-            "name" : "Meridian chaise",
+            "name" : "The Goleta Sofa",
             "price": 2950,
             "size": "1610W × 800D × 670H"
         },
         {   
-            "imgURL" :"http://www.designschneider.de/uploads/thumbs/Ten_Sofa01_thumbnail2.jpg",
+            "imgURL" :"https://cdn.shopify.com/s/files/1/0074/7077/6371/products/3_0c55468e-b2ab-48b7-8ea4-bcd5f43eca24_544x352.jpg?v=1630052306",
             "category" : "sofa",
-            "name" : "TEN",
+            "name" : "Park Sofa",
             "price": 2150,
             "size": "1580W × 675D × 650H"
         },
@@ -152,10 +152,10 @@
             "size": "1760W × 840D × 670H"
         },
         {   
-            "imgURL" :"https://hauteliving.imgix.net/product-photos/product-353160/NORR11-man-two-seater-sofa-haute-living.jpg?auto=compress%2Cformat&bg=ffffffff&fit=fill&h=500&q=80&w=900&s=f79fdacb87a5d9b43d9995dd142cb306",
+            "imgURL" :"https://images.ctfassets.net/5de70he6op10/3Hdwwduj2jCiWKjZnKIWpg/4f4aaf76f1b3fcdda5c9292f5510dc6b/LAYERS.jpg?w=934&q=80&fm=webp",
             "category" : "sofa",
-            "name" : "Two seater",
-            "price": 1880,
+            "name" : "The Layers Collection by Lemieux et Cie",
+            "price": 2898,
             "size": "1320W × 740D × 750H"
         }
 
